@@ -1,0 +1,21 @@
+﻿drug_id,drug_name,Stock_present,cost,company_name,date_of_production,months,dose
+r001,FOLFIRINOX,14,50,abc_x,,12,10
+r002,panadol,25,20,edx,,18,14
+r003,gemtasol,100,40,rew_x,,16,2
+r004,Fluticasone,4,36,Cipla Ltd.,,25,1
+r005,Albuterol,56,125,Zydus Lifesciences,,12,2
+r006,Adrenaline,24,52,Zydus Lifesciences,,14,3
+r007,Apomorphine,124,54,Dr. Reddys Laboratories ,,14,3
+r008,cytocil,500,26,Cipla Ltd.,,15,6
+r009,ibupotien,14,52,Zydus Lifesciences,,18,9
+r010,Albuterol,68,12,rew_x,,12,4
+r011,Cefinir,154,25,Dr. Reddys Laboratories ,,12,1
+r012,Lexapro,23,26,Cipla Ltd.,,6,5
+r013,PAxil,21,10,Dr. Reddys Laboratories ,,9,2
+r014,Zoloft,17,90,edx,,9,5
+r015,pencillin,68,48,edx,,17,6
+r016,etanecept,24,62,Cipla Ltd.,,16,3
+r017,Cephalexin,20,24,,,25,1
+r018,apixaban,14,12,,,21,4
+r019,ustekinumab,25,8,,,23,5
+r020,MDMA,63,18,Cipla Ltd.,,26,6

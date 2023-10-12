@@ -1,0 +1,12 @@
+﻿transc_id,employee_id,customer_id,payment_method,total_amt,P_date
+t01,E001,C001,upi,4002,
+t02,E002,C006,cash,,
+t03,E003,C002,cash,720,
+t04,E004,C008,card,,
+t05,E004,C003,upi,,
+t06,E002,C011,cash,580,
+t07,E001,C007,upi,,
+t08,E003,C004,cash,,
+t09,E004,C012,card,1200,
+t10,E005,C013,cash,,
+t11,E001,C009,upi,,
